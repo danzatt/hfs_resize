@@ -1,0 +1,10 @@
+Package: com.danzatt.hfsplused
+Name: HFS+ editor
+Depends: 
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Simple tool to resize HFS partitons.
+Maintainer: danzatt
+Author: danzatt
+Section: System
+Tag: role::hacker
